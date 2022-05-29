@@ -1,0 +1,12 @@
+body {
+ background-color: #eed59a;
+}
+
+img{ 
+    -webkit-border-radius:10px; -moz-border-radius:10px; border-radius:10px;
+}
+
+span{
+    
+    -webkit-border-radius:9px; -moz-border-radius:9px; border-radius:9px;
+}
